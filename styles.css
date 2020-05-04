@@ -1,0 +1,78 @@
+#google {
+    display:block;
+    height: 92px;
+    width: 272px;
+    margin: auto;
+    padding-top: 150px;
+}
+.topnav {
+    overflow: hidden;
+  }
+  
+  .topnav a {
+    float: left;
+    display: block;
+    color: black;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: 17px;
+  }
+  
+  .topnav a:hover {
+    text-decoration: underline;
+  }
+  
+  .topnav .toprightnav {
+    float: right;
+  }
+
+.search-container {
+    text-align: center;
+}
+
+  .search-field {
+    width: 150px;
+    text-align: center;
+    display: block;
+    margin: 0 auto;
+  }
+
+  .search {
+    background-color: #f2f2f2;
+    border: 1px solid #f2f2f2;
+    border-radius: 4px;
+    color: #5F6368;
+    font-family: arial, sans-serif;
+    font-size: 14px;
+    margin: 11px 4px;
+    padding: 0 16px;
+    line-height: 27px;
+    height: 36px;
+    min-width: 54px;
+    text-align: center;
+    cursor: pointer;
+    user-select: none;
+  }
+
+ p {
+      text-align: center;
+  }
+
+  .navbar {
+    background-color: grey;
+    overflow: hidden;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    color: #5f6368;
+    text-decoration: none;
+    white-space: nowrap;
+    font-family: arial, sans-serif;
+    cursor: pointer;
+    font-size: 14px;
+  }
+
+  .navbar2 {
+    float: right;
+  }
